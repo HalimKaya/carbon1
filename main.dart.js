@@ -32701,26 +32701,26 @@ gan(a){return a.name}}
 A.u5.prototype={
 aF(){return new A.Ia(A.aio(1),B.l)}}
 A.Ia.prototype={
-S(a,b){var s,r,q,p,o,n,m,l=this,k=null,j=t.w,i=A.co(k,k,k,new A.cn(k,A.f_(B.a0,new A.cX("assets/image/pw1_1.png",k,k)),k,k,k,k,B.M),b.L(j).f.a.b,k,k,b.L(j).f.a.a),h=b.L(j).f,g=b.L(j).f,f=t.E
-g=A.a([i,A.co(k,k,k,new A.cn(k,A.f_(B.a0,new A.cX("assets/image/1.png",k,k)),k,k,k,k,B.M),h.a.b,k,k,g.a.a),l.VQ(b)],f)
-i=A.co(k,A.DH(B.cy,A.a([new A.ti(l.e,A.a96(g,!0,!0,!0),k),l.Z5(b)],f),B.dz),B.BC,k,b.L(j).f.a.b,k,k,b.L(j).f.a.a)
+S(a,b){var s,r,q,p,o,n,m,l=this,k=null,j=t.w,i=A.co(k,k,k,new A.cn(k,A.f_(B.a0,new A.cX("assets/image/pw1_1.png",k,k)),k,k,k,k,B.M),b.L(j).f.a.a*0.5625,k,k,b.L(j).f.a.a),h=b.L(j).f,g=b.L(j).f,f=t.E
+g=A.a([i,A.co(k,k,k,new A.cn(k,A.f_(B.a0,new A.cX("assets/image/1.png",k,k)),k,k,k,k,B.M),h.a.a*0.5625,k,k,g.a.a),l.VQ(b)],f)
+i=A.co(k,A.DH(B.cy,A.a([new A.ti(l.e,A.a96(g,!0,!0,!0),k),l.Z5(b)],f),B.dz),B.BC,k,b.L(j).f.a.a*0.5625,k,k,b.L(j).f.a.a)
 h=A.f_(B.a0,new A.cX("assets/image/1_1.png",k,k))
 h=A.co(k,A.eI(k,100,k),k,new A.cn(k,h,k,k,k,k,B.M),b.L(j).f.a.b,k,k,b.L(j).f.a.a)
 g=A.f_(B.a0,new A.cX("assets/image/1_2.png",k,k))
-g=A.co(k,A.eI(k,100,k),k,new A.cn(k,g,k,k,k,k,B.M),b.L(j).f.a.b,k,k,b.L(j).f.a.a)
+g=A.co(k,A.eI(k,100,k),k,new A.cn(k,g,k,k,k,k,B.M),b.L(j).f.a.a*0.5625,k,k,b.L(j).f.a.a)
 s=A.f_(B.a0,new A.cX("assets/image/1_3.png",k,k))
-s=A.co(k,A.eI(k,100,k),k,new A.cn(k,s,k,k,k,k,B.M),b.L(j).f.a.b,k,k,b.L(j).f.a.a)
+s=A.co(k,A.eI(k,100,k),k,new A.cn(k,s,k,k,k,k,B.M),b.L(j).f.a.a*0.5625,k,k,b.L(j).f.a.a)
 r=l.Xw(b)
 q=A.f_(B.a0,new A.cX("assets/image/1_5.png",k,k))
-q=A.co(k,A.eI(k,100,k),k,new A.cn(k,q,k,k,k,k,B.M),b.L(j).f.a.b,k,k,b.L(j).f.a.a)
+q=A.co(k,A.eI(k,100,k),k,new A.cn(k,q,k,k,k,k,B.M),b.L(j).f.a.a*0.5625,k,k,b.L(j).f.a.a)
 p=A.f_(B.a0,new A.cX("assets/image/1_6.png",k,k))
-p=A.co(k,A.eI(k,100,k),k,new A.cn(k,p,k,k,k,k,B.M),b.L(j).f.a.b,k,k,b.L(j).f.a.a)
+p=A.co(k,A.eI(k,100,k),k,new A.cn(k,p,k,k,k,k,B.M),b.L(j).f.a.a*0.5625,k,k,b.L(j).f.a.a)
 o=A.f_(B.a0,new A.cX("assets/image/1_7.png",k,k))
-o=A.co(k,A.eI(k,100,k),k,new A.cn(k,o,k,k,k,k,B.M),b.L(j).f.a.b,k,k,b.L(j).f.a.a)
+o=A.co(k,A.eI(k,100,k),k,new A.cn(k,o,k,k,k,k,B.M),b.L(j).f.a.a*0.5625,k,k,b.L(j).f.a.a)
 n=A.f_(B.a0,new A.cX("assets/image/1_8.png",k,k))
-n=A.co(k,A.eI(k,100,k),k,new A.cn(k,n,k,k,k,k,B.M),b.L(j).f.a.b,k,k,b.L(j).f.a.a)
+n=A.co(k,A.eI(k,100,k),k,new A.cn(k,n,k,k,k,k,B.M),b.L(j).f.a.a*0.5625,k,k,b.L(j).f.a.a)
 m=A.f_(B.a0,new A.cX("assets/image/1_9.png",k,k))
-f=A.a96(A.a([i,h,g,s,r,q,p,o,n,A.co(k,A.eI(k,100,k),k,new A.cn(k,m,k,k,k,k,B.M),b.L(j).f.a.b,k,k,b.L(j).f.a.a)],f),!0,!0,!0)
+f=A.a96(A.a([i,h,g,s,r,q,p,o,n,A.co(k,A.eI(k,100,k),k,new A.cn(k,m,k,k,k,k,B.M),b.L(j).f.a.a*0.5625,k,k,b.L(j).f.a.a)],f),!0,!0,!0)
 return new A.u0(new A.AK(f,k,B.bj,!1,k,!0,B.rV,!1,k,10,B.a3,B.Cw,k,B.a7,k),k)},
 Z5(a){var s,r,q,p,o,n,m=this,l=null,k="assets/image/on.png",j="assets/image/of.png",i=t.w,h=a.L(i).f
 i=a.L(i).f
@@ -32736,17 +32736,17 @@ o=A.jf(o,new A.a0H(m))
 n=q===1?A.dK(k,l,l):A.dK(j,l,l)
 n=A.jf(n,new A.a0I(m))
 q=q===2?A.dK(k,l,l):A.dK(j,l,l)
-return A.SC(l,A.co(l,A.Mj(A.a([r,p,A.cp(A.u_(A.a([o,n,A.jf(q,new A.a0J(m))],s),B.B9,B.b7),1)],s),B.cG,B.aA),l,l,h.a.b,l,l,i.a.a),l,l,0,0,0,l)},
+return A.SC(l,A.co(l,A.Mj(A.a([r,p,A.cp(A.u_(A.a([o,n,A.jf(q,new A.a0J(m))],s),B.B9,B.b7),1)],s),B.cG,B.aA),l,l,h.a.a*0.5625,l,l,i.a.a),l,l,0,0,0,l)},
 VQ(a){var s,r,q=this,p=null,o=A.f_(B.a0,q.r?new A.cX("assets/image/pw2.png",p,p):new A.cX("assets/image/pw2_1.png",p,p)),n=t.w,m=a.L(n).f,l=a.L(n).f
 n=a.L(n).f
 n=A.cp(A.co(B.rU,A.a3A(q.r?A.WU("Yak\u0131nda Burada Olaca\u011f\u0131z",A.jU(p,p,p,p,p,p,p,p,p,p,p,35,p,B.bu,p,p,!0,p,p,p,p,p,p,p,p),p,p):p,p,p),B.a9,p,p,p,p,n.a.a/7*4),10)
 s=q.r?A.Pn(B.xw,B.i,125):A.Pn(B.xx,B.i,125)
 r=t.E
-return A.co(p,A.Mj(A.a([new A.cT(6,p),n,A.cp(A.u_(A.a([new A.cT(9,p),A.cp(A.co(p,A.jf(s,new A.a0m(q)),B.a9,p,150,p,p,150),1)],r),B.aA,B.b7),3)],r),B.cG,B.aA),p,new A.cn(p,o,p,p,p,p,B.M),m.a.b,p,p,l.a.a)},
+return A.co(p,A.Mj(A.a([new A.cT(6,p),n,A.cp(A.u_(A.a([new A.cT(9,p),A.cp(A.co(p,A.jf(s,new A.a0m(q)),B.a9,p,150,p,p,150),1)],r),B.aA,B.b7),3)],r),B.cG,B.aA),p,new A.cn(p,o,p,p,p,p,B.M),m.a.a*0.5625,p,p,l.a.a)},
 Xw(a){var s,r=null,q=A.f_(B.a0,new A.cX("assets/image/schome2.png",r,r)),p=t.w,o=a.L(p).f
 p=a.L(p).f
 s=t.E
-return A.co(r,A.Mj(A.a([new A.cT(1,r),A.cp(new A.ii(new A.bf(20,0,0,0),A.WU("Biz Kimiz!",A.jU(r,r,B.i,r,r,r,r,r,r,r,r,35,r,r,r,r,!0,r,5,r,r,r,r,r,10),B.bf,r),r),1),new A.cT(1,r),A.cp(A.u_(A.a([new A.cT(2,r),A.cp(A.mW(r,A.dK("assets/image/hasan.png",r,r),B.a3,!1,r,r,r,r,r,r,r,r,r,r,new A.a0n(),r,r,r,r,r),3),new A.cT(1,r),A.cp(A.mW(r,A.dK("assets/image/halim.png",r,r),B.a3,!1,r,r,r,r,r,r,r,r,r,r,new A.a0o(),r,r,r,r,r),3),new A.cT(1,r),A.cp(A.mW(r,A.dK("assets/image/murat.png",r,r),B.a3,!1,r,r,r,r,r,r,r,r,r,r,new A.a0p(),r,r,r,r,r),3),new A.cT(1,r),A.cp(A.mW(r,A.dK("assets/image/uygar.png",r,r),B.a3,!1,r,r,r,r,r,r,r,r,r,r,new A.a0q(),r,r,r,r,r),3),new A.cT(1,r),A.cp(A.mW(r,A.dK("assets/image/adelina.png",r,r),B.a3,!1,r,r,r,r,r,r,r,r,r,r,new A.a0r(),r,r,r,r,r),3),new A.cT(2,r)],s),B.aA,B.b7),8),new A.cT(1,r)],s),B.dY,B.aA),r,new A.cn(r,q,r,r,r,r,B.M),o.a.b,r,r,p.a.a)}}
+return A.co(r,A.Mj(A.a([new A.cT(1,r),A.cp(new A.ii(new A.bf(20,0,0,0),A.WU("Biz Kimiz!",A.jU(r,r,B.i,r,r,r,r,r,r,r,r,35,r,r,r,r,!0,r,5,r,r,r,r,r,10),B.bf,r),r),1),new A.cT(1,r),A.cp(A.u_(A.a([new A.cT(2,r),A.cp(A.mW(r,A.dK("assets/image/hasan.png",r,r),B.a3,!1,r,r,r,r,r,r,r,r,r,r,new A.a0n(),r,r,r,r,r),3),new A.cT(1,r),A.cp(A.mW(r,A.dK("assets/image/halim.png",r,r),B.a3,!1,r,r,r,r,r,r,r,r,r,r,new A.a0o(),r,r,r,r,r),3),new A.cT(1,r),A.cp(A.mW(r,A.dK("assets/image/murat.png",r,r),B.a3,!1,r,r,r,r,r,r,r,r,r,r,new A.a0p(),r,r,r,r,r),3),new A.cT(1,r),A.cp(A.mW(r,A.dK("assets/image/uygar.png",r,r),B.a3,!1,r,r,r,r,r,r,r,r,r,r,new A.a0q(),r,r,r,r,r),3),new A.cT(1,r),A.cp(A.mW(r,A.dK("assets/image/adelina.png",r,r),B.a3,!1,r,r,r,r,r,r,r,r,r,r,new A.a0r(),r,r,r,r,r),3),new A.cT(2,r)],s),B.aA,B.b7),8),new A.cT(1,r)],s),B.dY,B.aA),r,new A.cn(r,q,r,r,r,r,B.M),o.a.a*0.5625,r,r,p.a.a)}}
 A.a0B.prototype={
 $0(){var s=this.a
 s.ar(new A.a0A(s))},
